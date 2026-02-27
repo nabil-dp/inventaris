@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root"; 
-$pass = "Silgrad02"; 
+$pass = "pw"; 
 $db   = "inventaris_db";
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
